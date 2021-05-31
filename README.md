@@ -4,7 +4,7 @@ Dockerで立ち上がるオレオレJupyterLab環境
 
 ## usage
 ```
-$dc up --build
+$docker-compose up --build
 ```
 
 ## install [kite](https://github.com/kiteco/jupyterlab-kite)
